@@ -10,7 +10,7 @@ workday_links = []
 a = ["workday", "jobvite", "workable", "smartrecruiters", "greenhouse", "lever.co/"]
 
 start = time.time()
-with open('/Users/kiran/CodeVS/ohryro/grab_careers/careers.txt') as result:
+with open('areers.txt') as result:
     urls = result.read().splitlines()
 
 def fetch_url(url):

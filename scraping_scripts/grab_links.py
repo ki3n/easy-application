@@ -2,7 +2,7 @@ import urllib
 import lxml.html
 import xml.dom.minidom
 f= open("guru99.txt","w+")
-with open('/Users/kiran/CodeVS/ohryro/grab_careers/data.txt') as result:
+with open('/data.txt') as result:
     lines = result.read().splitlines()
 # print lines
 careers_array = []

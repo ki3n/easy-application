@@ -7,7 +7,7 @@ from socket import timeout
 
 outfile3 = open("final.txt","w+")
 
-with open('/Users/kiran/CodeVS/ohryro/grab_careers/careers.txt') as result:
+with open('careers.txt') as result:
     urls = result.read().splitlines()
 
 outfile3.write("\n".join(set(urls)))
