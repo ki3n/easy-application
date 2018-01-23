@@ -1,3 +1,3 @@
 # easy-application
+- [X] [Bay Area Career Pages](bay_companies.txt)
 
-[Bay Area Career Pages] (bay_companies.txt)
