@@ -1,6 +1,3 @@
 # easy-application
 
-Workday companies
-
-https://mcafee.wd1.myworkdayjobs.com/
-https://paypal.wd1.myworkdayjobs.com/jobs
+All Career Page [bay_companies.txt]
